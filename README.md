@@ -2,7 +2,10 @@ rspec-tutorial [![Build Status](https://travis-ci.org/dergachev/rspec-tutorial.p
 ====================================================================================
 
 
-Playing around with writing rspec tests.
+Playing around with writing rspec tests for a trivial thor-based CLI app.
+
+* `spec/unit` contains unit tests, which interact with ruby directly.
+* `spec/acceptance` contains integration tests, which shell out to launch the shell commmands.
 
 ## Installation and Usage
 
