@@ -20,8 +20,6 @@ bundle exec rake spec
 
 ## Travis-CI
 
-## Travis steps 
-
 Required adding the following to README.md:
 
 ```
