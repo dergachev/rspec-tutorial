@@ -18,6 +18,10 @@ To run the tests:
 bundle exec rake spec
 ```
 
+To add rspec to an existing project, run `bundle exec rspec --init`, which will 
+create `.rspec` and `./spec/spec_helper.rb`.
+
+
 ## Travis-CI
 
 Required adding the following to README.md:
