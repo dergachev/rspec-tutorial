@@ -1,7 +1,6 @@
-rspec-tutorial
-==============
+rspec-tutorial [![Build Status](https://travis-ci.org/dergachev/rspec-tutorial.png)](https://travis-ci.org/dergachev/rspec-tutorial)
+====================================================================================
 
-[![Build Status](https://travis-ci.org/dergachev/rspec-tutorial.png)](https://travis-ci.org/dergachev/rspec-tutorial)
 
 Playing around with writing rspec tests.
 
@@ -41,13 +40,10 @@ Then signed into https://travis-ci.org/profile , clicked "Sync" to pull in new
 github repo, and enabled travis on it.  The first build MUST BE TRIGGERED via
 git push.
 
-Resources:
-
 * https://travis-ci.org/dergachev/phpunit-tutorial/
 * http://about.travis-ci.org/docs/user/getting-started/
 * http://about.travis-ci.org/docs/user/languages/php/
 * http://about.travis-ci.org/docs/user/status-images/
-
 
 ## Resources
 
