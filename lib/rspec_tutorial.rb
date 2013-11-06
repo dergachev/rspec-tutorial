@@ -1,6 +1,6 @@
-require 'rspec_test/cli'
+require 'rspec_tutorial/cli'
 
-module RspecTest
+module RspecTutorial
   class Alex
     def name
       return "alex"

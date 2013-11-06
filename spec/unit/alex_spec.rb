@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe RspecTest::Alex do
+describe RspecTutorial::Alex do
   describe "#name" do
     it 'knows his own name' do
       subject.name.should == 'alex'

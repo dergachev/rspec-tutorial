@@ -1,10 +1,9 @@
 require 'thor'
 
-module RspecTest
+module RspecTutorial
   class Cli < Thor
     desc "name", "returns alex"
     def name
-      raise "ALEX"
       return "alex"
     end
 
